@@ -1,6 +1,9 @@
 import React from "react";
+import hideRightMenu from "../utils";
 
 function ContactMe() {
+  window.onload = () => hideRightMenu(false);
+
   return (
     <div className="text-light rightToLeft pt-lg-5 mt-lg-5">
       <div className="text-center mt-3">Contact Me</div>

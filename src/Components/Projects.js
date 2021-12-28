@@ -1,6 +1,8 @@
 import React from "react";
+import hideRightMenu from "../utils";
 
 function Projects() {
+  window.onload =()=>hideRightMenu(false);
   return (
     <div className="projects pt-md-3 rightToLeft">
       <div className="text-light text-center pb-2 mt-md-5">Projects</div>

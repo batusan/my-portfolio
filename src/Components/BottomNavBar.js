@@ -73,7 +73,7 @@ function BottomNavBar() {
               </Link>
             </li>
             <li className="nav-item active">
-              <Link className="nav-link btn-clr" to="/contactme">
+              <Link className="nav-link btn-clr" to="/contact">
                 Contact Me
               </Link>
             </li>

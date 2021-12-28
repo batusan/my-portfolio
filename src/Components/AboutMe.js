@@ -20,7 +20,7 @@ function AboutMe() {
     </svg>;
   ---------------------------
     */
-    <div className="pb-5 mb-5" style={{ lineHeight: 2 }}>
+    <div className="pb-5 mb-5 p-5" style={{ lineHeight: 2 }}>
       <div className="main-text typewriter">
         Hello , I'm Batu<span className="batu-name">han.</span>
       </div>

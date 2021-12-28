@@ -18,7 +18,7 @@ function Projects() {
             className="col-3 d-flex justify-content-center align-items-center"
             style={{ color: "white" }}
           >
-            <a href="https://github.com/batusan" className="remove-link-style">
+            <a href="https://github.com/batusan/my-portfolio" className="remove-link-style">
               <i className="fas fa-link fa-2x"></i>
             </a>
           </div>

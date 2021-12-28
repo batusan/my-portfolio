@@ -11,7 +11,7 @@ function Projects() {
           <div className="card-body text-start col-9">
             <h5 className="card-title">React - Portfolio</h5>
             <p className="card-text text-white-50">
-              Personel web portfolio , built using React.
+              Personel web project was built with React.js, and deployed with Vercel.
             </p>
           </div>
           <div

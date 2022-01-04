@@ -17,7 +17,7 @@ function RightSide() {
         <Route path="/project" element={<Projects hideRigthSide={false} />} />
         <Route path="/blog" element={<Blogs hideRigthSide={false} />} />
         <Route path="/contact" element={<ContactMe hideRigthSide={false} />} />
-        <Route path="*" redire element={<NotFound hideRigthSide={true} />} />
+        
       </Routes>
     </div>
   );
